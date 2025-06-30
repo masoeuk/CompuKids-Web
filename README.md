@@ -13,5 +13,5 @@ Introduction to web app development. First in creating apps using html and css
   <li>
     <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a>
   </li>
-</ul>
+</ul>    
 
