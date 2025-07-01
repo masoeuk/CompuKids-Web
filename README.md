@@ -1,6 +1,6 @@
 ## CompuKids-Web
 
-Introduction to web app development. First in creating apps using html and css
+Introduction to web app development. Basic steps on how to work with  html, css, images and hyperlinks. 
 <h4> 🛠 Technologies</h4>
 <p>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/html.svg" title="html" width="50" height="50"/>
