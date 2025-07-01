@@ -15,3 +15,6 @@ Introduction to web app development. First in creating apps using html and css
   </li>
 </ul>    
 
+<h4> 🌍 Browser Support </h4>
+<ul><li>Supports all browsers</li></ul>
+
