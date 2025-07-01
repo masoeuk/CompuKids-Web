@@ -1,6 +1,6 @@
-## CompuKids-Web
+## HTML-CSS-Tutorial
 
-Introduction to web app development. Basic steps on how to work with  html, css, images and hyperlinks. 
+Introduction to app development. Basic steps on how to work with  html, css, images and hyperlinks. 
 <h4> 🛠 Technologies</h4>
 <p>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/html.svg" title="html" width="50" height="50"/>
@@ -15,6 +15,9 @@ Introduction to web app development. Basic steps on how to work with  html, css,
   </li>
 </ul>    
 
-<h4> 🌍 Browser Support </h4>
-<ul><li>Supports all browsers</li></ul>
+<h4> 📙 Lessons </h4>
+<ul>
+  <li>Html</li>
+  <li>Css</li>
+</ul>
 
